@@ -1,0 +1,60 @@
+{
+  "name": "es-abstract-has-property",
+  "version": "0.1.0",
+  "description": "A method to determine whether an object has a property with the specified property key. The property may be either an own or inherited. This method follows ECMAScript's specification for the 'HasProperty' abstract operation.",
+  "main": "lib/index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:npetruzzelli/es-abstract-has-property.git"
+  },
+  "keywords": [
+    "HasProperty",
+    "has property",
+    "has",
+    "property",
+    "properties",
+    "ECMAScript",
+    "ES",
+    "ecma",
+    "abstract",
+    "internal",
+    "operation",
+    "method",
+    "abstract operation",
+    "abstract operations",
+    "internal method",
+    "internal methods",
+    "JavaScript",
+    "ES5",
+    "ES2009",
+    "ES5.1",
+    "ES2011",
+    "ES6",
+    "ES2015",
+    "ES7",
+    "ES2016",
+    "ES8",
+    "ES2017"
+  ],
+  "author": "Nick Petruzzelli <code.npetruzzelli@gmail.com>",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "eslint": "^4.1.1",
+    "eslint-config-prettier": "^2.3.0",
+    "eslint-config-prettier-standard": "^1.0.1",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.0",
+    "eslint-plugin-prettier": "^2.1.2",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "prettier": "^1.5.2"
+  }
+}
